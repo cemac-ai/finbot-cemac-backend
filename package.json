@@ -1,0 +1,24 @@
+{
+  "name": "finbot-cemac-backend",
+  "version": "1.0.0",
+  "description": "Vercel serverless backend for FinBot CEMAC - WhatsApp bookkeeping MVP",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "fintech",
+    "bookkeeping",
+    "whatsapp",
+    "cemac",
+    "accounting",
+    "claude-ai",
+    "vercel",
+    "serverless"
+  ],
+  "author": "FinBot CEMAC",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
